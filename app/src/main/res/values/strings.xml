@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">fapeds</string>
+    <string name="judul">JOKI MOBILE LEGEND DAN TOP UP DIAMOND GAME ONLINE</string>
+    <string name="gambar_joki">gambar joki</string>
+    <string name="aman">Aman, cepat dan terpercaya !</string>
+    <string name="game_lainnya">game lainnya...</string>
+    <string name="top_up">TOP UP</string>
+    <string name="lengkapi_data">Lengkapi data </string>
+    <string name="game_id">Game id :</string>
+    <string name="server_id">Server id : </string>
+    <string name="masukan_id">masukan id</string>
+    <string name="masukan_server">masukan server</string>
+    <string name="cs_faped">FAPED Adalah Tempat Top Up Games Yang Aman, Murah. FAPED Menyediakan Layanan Top Up Games seperti Diamond Mobile Legends, FF, Genshin Impact, AOV, dll. Untuk Mempermudah Pembayaran Anda Disini Kami Juga Menyediakan Metode  Pembayaran Alfamart, Bank BCA, Bank Mandiri, Bank BNI, Bank Bri, DANA, OVO, Gopay, Shopee Pay, Link Aja, dll. Jika ada kendala silahkan klik logo CS pada kanan bawah di web ini.</string>
+
+</resources>
